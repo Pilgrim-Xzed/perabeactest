@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(testpb LANGUAGES CXX)
+project(yx LANGUAGES CXX)
 
-set(BINARY_NAME "testpb")
+set(BINARY_NAME "yx")
 
 cmake_policy(SET CMP0063 NEW)
 
